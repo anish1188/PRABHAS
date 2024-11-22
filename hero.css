@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    background-color: black;
+    color: #ffffff;
+    line-height: 30px;
+}
+header{
+    background-color: rgb(229, 23, 23);
+    text-align: center;
+}
+h1{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    font-size: 30px;
+    border: #32248c solid 10px;
+    
+}
+header img{
+    border-radius: 150px;
+    border: 20px solid white;
+}
+}
+main{
+    max-width: 800px;
+    padding: 50px 50px;
+}
+main img{width: 80%;
+margin-left: 150px;}
+h2{font-size: 30px;}
+p{font-size: 20px;}
+ul{font-size: 20px;}
+ol{font-size: 20px;}
+a{color: #b81b1b;}
+a:hover{color: #ffffff;
+background-color: #32248c;}
+footer{background-color: #b81b1b;
+text-align: center;
+padding: 50px;}
+p.caption{color: #1ab56a;}
